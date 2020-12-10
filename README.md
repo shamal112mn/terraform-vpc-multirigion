@@ -1,5 +1,5 @@
-# Terraform
-### Build VPC with multiple regions
+# Terraform gCloud
+### Build VPC with multiple regions on Google Cloud
 ### with bucket setup script: setenv.sh 
 
 ```
